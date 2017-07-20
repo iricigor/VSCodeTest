@@ -12,4 +12,8 @@ repeating test
 
 ~~I do not see this online~~
 
-I do see it now
+I **do** see it now
+
+Example of code:
+`Get-ChildItem -Recurse` 
+command
